@@ -4,6 +4,6 @@ Open source multi tool for dll injection
 
 ## injection methods
 
-- loadlibrary
+- loadlibrary (winapi)
 - thread hijacking
 - manual map
