@@ -6,4 +6,9 @@ Open source multi tool for dll injection writen in C++
 
 - loadlibrary (winapi)
 - thread hijacking
-- manual map
+- manual mapping 
+
+
+## license 
+
+Distributed under the MIT License. See [LICENSE](LICENSE) file for details.
