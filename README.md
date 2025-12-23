@@ -1,5 +1,5 @@
 # open-injector
-Open source multi tool for dll injection writen in C++
+Open source multi tool for dll injection writen in C/C++
 
 
 ## injection methods
